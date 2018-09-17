@@ -1,0 +1,61 @@
+---
+ID: 11160
+post_title: Turbinectomia / Turbinoplastia
+author: naconeclinica
+post_excerpt: ""
+layout: post
+permalink: >
+  http://www.clinicanaconecy.com.br/cirurgias/turbinectomia-turbinoplastia/
+published: true
+post_date: 2015-02-06 19:37:24
+---
+[fusion_text]
+
+[/fusion_text][fullwidth backgroundcolor="#eff7ff" backgroundimage="" backgroundrepeat="no-repeat" backgroundposition="left top" backgroundattachment="scroll" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" bordersize="0px" bordercolor="" borderstyle="solid" paddingtop="20px" paddingbottom="20px" paddingleft="0px" paddingright="0px" menu_anchor="" equal_height_columns="no" hundred_percent="no" class="" id=""][two_fifth last="no" spacing="yes" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" border_size="0px" border_color="" border_style="" padding="" class="" id=""][imageframe lightbox="no" style_type="none" bordercolor="" bordersize="0px" borderradius="0" stylecolor="" align="none" link="" linktarget="_self" animation_type="0" animation_direction="down" animation_speed="0.1" class="" id=""] <img alt="" src="http://www.clinicanaconecy.com.br/wp-content/uploads/2015/02/turbinectomia.jpg" />[/imageframe][/two_fifth][three_fifth last="yes" spacing="yes" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" border_size="0px" border_color="" border_style="" padding="" class="" id=""][fusion_text]A <strong>turbinectomia</strong> é um procedimento cirúrgico que é usado para ajudar a aliviar a congestão nasal crônica. O procedimento pode ser realizado em conjunto com outros tipos de cirurgia como <span style="text-decoration: underline;">rinoplastia e septoplastia</span>.[/fusion_text][/three_fifth][fusion_text][title size="2" content_align="left" style_type="double solid" sep_color="" class="" id=""]Indicações[/title]
+<ul>
+	<li>Congestão nasal devido àhipertrofia de corneto que falhou a terapia médica apropriada.</li>
+	<li>Pode ser feito em combinação com outra cirurgia de vias aéreas como  septoplastia e tratamento  multinível para apnéia obstrutiva do sono.</li>
+	<li>Pacientes com desvio de septo nasal, uma turbinectomia inferior pode ajudar.</li>
+	<li>Pacientes com tumores ou outros crescimentos presentes nas passagens nasais, este tipo de cirurgia pode muitas vezes trazer algum alívio.</li>
+	<li>Pacientes que sofrem de apnéia do sono, a turbinectomia pode muitas vezes facilitar o descanso e o paciente se sentir mais revigorado ao acordar.</li>
+	<li>Pacientes que vivem em um ambiente com muito pó ou seco podem não ser bons candidatos a esta cirurgia.</li>
+</ul>
+[/fusion_text][one_half last="no" spacing="yes" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" border_size="0px" border_color="" border_style="" padding="" class="" id=""][fusion_text][title size="2" content_align="left" style_type="single solid" sep_color="" class="" id=""]Como é feita a turbinectomia[/title]
+
+A forma mais comum do procedimento envolve a remoção parcial ou total do osso conhecido como o <strong>cornetos nasais</strong> – pode ser realizada uma <strong>turbinectomia bilateral ou parcial</strong>. A turbinectomia parcial é um método de cirurgia de redução de corneto para reduzir a área inferior que às vezes é muito grande. Este osso encontra-se nas laterais do nariz. O corneto é protegido por uma membrana mucosa fina. Pessoas com alergias muitas vezes resolvem o problema depois de serem submetidos a este tipo de operação. Este procedimento cirúrgico é realizado sob <span style="text-decoration: underline;">anestesia geral</span>.[/fusion_text][/one_half][one_half last="yes" spacing="yes" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" border_size="0px" border_color="" border_style="" padding="" class="" id=""][imageframe lightbox="no" style_type="none" bordercolor="" bordersize="0px" borderradius="0" stylecolor="" align="none" link="" linktarget="_self" animation_type="0" animation_direction="down" animation_speed="0.1" class="" id=""] <img alt="" src="http://www.clinicanaconecy.com.br/wp-content/uploads/2015/02/turbinectomia02.jpg" />[/imageframe][/one_half][fusion_text][title size="2" content_align="left" style_type="double solid" sep_color="" class="" id=""]Pós Operatório:[/title]
+<ul>
+	<li>É comum o sangramento.</li>
+	<li>Sensação de secura no nariz, que pode ser aliviado com spray nasal.</li>
+	<li>A respiração pode realmente estar pior nos primeiros dias ou semanas após a cirurgia devido ao inchaço. Aos poucos o inchaço diminui e você pode respirar mais facilmente</li>
+</ul>
+A<strong> Turbinoplastia </strong><strong>é</strong> um procedimento com menor trauma; utiliza-se um instrumento para  reposicionar o corneto lateralmente e aumentar a permeabilidade das vias aéreas.em seguida realiza-se. Cauterização elétrica de toda superfície dos cornetos inferiores. Esta abordagem permite realização ambulatorial ( na clínica ) com pós operatório com pouco desconforto para o paciente, pouco sangramento e  menor formação de crostas intranasais.[/fusion_text][one_third last="no" spacing="yes" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" border_size="0px" border_color="" border_style="" padding="" class="" id=""][imageframe lightbox="no" style_type="none" bordercolor="" bordersize="0px" borderradius="0" stylecolor="" align="none" link="" linktarget="_self" animation_type="0" animation_direction="down" animation_speed="0.1" class="" id=""] <img alt="" src="http://www.clinicanaconecy.com.br/wp-content/uploads/2015/02/sinusite02.jpg" />[/imageframe][/one_third][two_third last="yes" spacing="yes" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" border_size="0px" border_color="" border_style="" padding="" class="" id=""][fusion_text][title size="2" content_align="left" style_type="single solid" sep_color="" class="" id=""]O que é polipose naso–sinusal?[/title]
+
+A polipose nasal ou naso-sinusal é uma doença benigna crônica que afeta a cavidade do nariz e os seios paranasais ou seios da face. Os pólipos são tecidos inchados que se desenvolvem a partir da mucosa do nariz e dos seios paranasais (espaços cheios de ar, que se comunicam com a cavidade nasal, no interior dos ossos do crânio e face), por conta de processos inflamatórios crônicos nestas mucosas.[/fusion_text][/two_third][fusion_text]Com a inflamação crônica, células mediadoras inflamatórias presentes em nosso organismo, como os eosinófilos, aumentam em número e provocam uma alteração nas células da mucosa do nariz e seios da face, fazendo com que haja uma desorganização no funcionamento da bomba de sódio e potássio que existe naturalmente em nossas células. Com esta alteração, o sódio, que está mais presente no meio extra-celular, ou seja, fora das células, acaba entrando pela membrana plasmática das células, trazendo consigo água. Esta água promove um inchaço nas células que acabam por desenvolver, no caso da mucosa nasal, os pólipos. Um grupo de pólipos recebe o nome de polipose, visto que se assemelha às formações marinhas (pólipos marinhos).
+
+Geralmente, a polipose nasal tem associação com alergias, entretanto também há casos de poliposes nasais em que fungos estão presentes provocando uma reação inflamatória crônica na mucosa do nariz e seios paranasais e em casos de doenças genéticas associadas.
+
+É bom também não confundir polipose nasal com pólipos nasais. Os pólipos nasais podem variar em tamanho, formato, coloração e localização. Podem apresentar tamanhos e formatos variados, desde massas arredondadas até como em “cachos de uvas”, coloração que varia de marrom amarelado a avermelhado, podem ser uni ou bilaterais e podem se localizar em diferentes regiões do nariz e seios da face.[/fusion_text][three_fifth last="no" spacing="yes" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" border_size="0px" border_color="" border_style="" padding="" class="" id=""][fusion_text]Nem todos os pólipos nasais são uma polipose nasal. Há massas nasais, especialmente as unilaterais, que devem ser diferenciadas das poliposes. Exemplos de lesões unilaterais que não são poliposes nasais são os pólipos antro-coanais, ou pólipos de Killiam, que são lesões benignas, papilomas invertidos, nasoangiofibromas e até mesmo lesões malignas na cavidade nasal e seios da face.
+
+Já na polipose nasal, os pólipos geralmente são bilaterais e quando aumentam de tamanho, especialmente em pacientes sem nenhum tipo de tratamento, eles podem causar obstrução nasal, alterações no olfato e bloquear a drenagem natural dos seios da face.[/fusion_text][/three_fifth][two_fifth last="yes" spacing="yes" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" border_size="0px" border_color="" border_style="" padding="" class="" id=""][imageframe lightbox="no" style_type="none" bordercolor="" bordersize="0px" borderradius="0" stylecolor="" align="none" link="" linktarget="_self" animation_type="0" animation_direction="down" animation_speed="0.1" class="" id=""] <img alt="" src="http://www.clinicanaconecy.com.br/wp-content/uploads/2015/02/sinusite03.jpg" />[/imageframe][/two_fifth][fusion_text]A polipose nasal pode também estar associada à outras condições tais como asma, sinusites de repetição e alergias à medicações, como o ácido acetilsalicílico (AAS). Alguns pacientes com fibrose cística e outras condições como doença de Churg-Strauss, também podem desenvolver polipose naso-sinusal.
+
+[title size="2" content_align="left" style_type="single solid" sep_color="" class="" id=""]Quais são os sintomas das poliposes naso-sinusais ?[/title]
+
+Os principais sintomas das poliposes nasais são: obstrução nasal crônica e hiposmia ou anosmia, ou seja, diminuição ou ausência do olfato (cheiro).
+
+Outros sintomas podem incluir alterações no paladar (gosto), tosse, secreção constante nasal (coriza ou corrimento nasal, como se fosse um resfriado constante), secreção constante na garganta, dores de cabeça (principalmente na região da frente da face), sensação de pressão facial, dentre outros.
+
+Em alguns casos mais severos de poliposes nasais o paciente inclusive pode apresentar alguns distúrbios do sono, por não respirar adequadamente pelo nariz.
+
+[title size="2" content_align="left" style_type="single solid" sep_color="" class="" id=""]E como é o tratamento?[/title]
+
+O tratamento requer uma avaliação com médico Otorrinolaringologista e é geralmente realizado pelo resto da vida, já que necessita de acompanhamento contínuo.
+
+O tratamento consiste em medidas básicas para se evitar a inflamação crônica da mucosa do nariz e seios paranasais, como as lavagens nasais abundantes com soro fisiológico, várias vezes ao dia; medicações, geralmente anti-inflamatórios nasais em apresentação de “spray” ou até mesmo comprimidos ou injeções, além de em alguns casos anti-alérgicos e anti-fúngicos.
+
+Tratamentos experimentais com outras medicações também são possíveis, desde que o paciente seja plenamente orientado pelo médico a cerca dos possíveis riscos e benefícios deste tratamento.
+
+Entretanto, em grande parte dos casos o tratamento clínico, ou seja, com lavagens e medicações não é suficiente, pois os remédios e o soro fisiológico, pois mais que o paciente os use adequadamente, simplesmente não conseguem chegar nos locais atingidos pela presença dos pólipos. Nestes casos uma cirurgia pode ser indicada para a remoção e limpeza destes pólipos, além de uma abertura dos seios da face para que as lavagens e as medicações possam chegar aos locais de inflamação.
+
+Vale ressaltar que a cirurgia também não oferece a cura aos pacientes. A cirurgia, que deve ser realizada em alguns casos, oferece um melhor controle terapêutico, fazendo com que a doença fique controlada pelo maior tempo possível. Às vezes, outras cirurgias são necessárias.[/fusion_text][/fullwidth][fusion_text]
+
+[/fusion_text]
